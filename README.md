@@ -13,3 +13,5 @@
 ## Branching Commands
 * 'git branch' - list local branches
 * 'git branch -m newName' - rename current branch to 'newName'
+* 'git branch branchName' - create local branch 'branchName'
+* 'git checkout branchName' - swithc to local branch 'branchName'
